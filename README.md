@@ -84,3 +84,7 @@ ________________________________________
 •	Predictive caregiver stress analytics
 •	Multilingual support
 
+
+## Contributing
+- Branch: feature/<desc>
+- Commit style: type(scope): message
