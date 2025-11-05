@@ -1,0 +1,25 @@
+trigger:
+- main
+
+pool:
+  vmImage: ubuntu-latest
+
+steps:
+# Step 1: Build Docker image
+- task: Docker@2
+  displayName: Build Docker Image
+  inputs:
+    command: build
+    Dockerfile: '**/Dockerfile'
+    tags: |
+      latest
+
+# Step 2: Push image to Docker Hub
+- task: Docker@2
+  displayName: Push Docker Image to Docker Hub
+  inputs:
+    containerRegistry: 'DockerHubConnection'
+    repository: 'adhitya7046/memoriai-cognitive'
+    command: push
+    tags: |
+      latest
