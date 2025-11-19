@@ -1,5 +1,5 @@
 🧠 MemoriAI – AI-Powered Cognitive Assistant for Alzheimer’s Care
-📘 Overview
+📘 Overview  - TESSA NEJLA AYVAZOGLU - 10/11/2025
 
 MemoriAI is an AI-powered digital companion designed to support individuals with Alzheimer’s disease and dementia.
 It provides cognitive recall assistance, adaptive reminders, and a caregiver dashboard — helping patients maintain independence and enabling caregivers to monitor well-being.
