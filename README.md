@@ -1,5 +1,5 @@
 🧠 MemoriAI – AI-Powered Cognitive Assistant for Alzheimer’s Care
-📘 Overview
+📘 Overview  - TESSA NEJLA AYVAZOGLU - 10/11/2025
 
 MemoriAI is an AI-powered digital companion designed to support individuals with Alzheimer’s disease and dementia.
 It provides cognitive recall assistance, adaptive reminders, and a caregiver dashboard — helping patients maintain independence and enabling caregivers to monitor well-being.
@@ -112,3 +112,14 @@ Multilingual support
 © 2025 Nejla (Tessa) Ayvazoglu. All Rights Reserved.
 This software and all accompanying documentation are proprietary and confidential.
 Unauthorized use, reproduction, or distribution is strictly prohibited.
+#===>
+#docker build -t tessaayv8/memoriai-assignment4:latest .
+#docker run -p 8501:8501 tessaayv8/memoriai-assignment4:latest
+#docker push tessaayv8/memoriai-assignment4:latest
+#====>
+#docker rmi tessaayv8/memoriai-assignment4:latest   # local imajı sil
+#docker pull tessaayv8/memoriai-assignment4:latest  # Hub’dan tekrar çek
+#docker run -p 8501:8501 tessaayv8/memoriai-assignment4:latest
+#docker run -p 8501:8501 ^
+#  -v D:\Doc_2025\Sebtember2025\INFO8665ML1\MemoriAI\src\logs:/app/src/logs ^
+#  tessaayv8/memoriai-assignment4:latest

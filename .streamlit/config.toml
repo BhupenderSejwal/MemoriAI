@@ -1,0 +1,12 @@
+[server]
+fileWatcherType = "none"
+# torch ve venv yollarını izleme
+folderWatchBlacklist = [
+  ".*site-packages/torch/.*",
+  ".*site-packages/tensorflow/.*",
+  ".*site-packages/tf_keras/.*",
+  ".*\\myenv\\.*"
+]
+
+[logger]
+level = "error"

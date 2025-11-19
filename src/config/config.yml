@@ -29,3 +29,4 @@ vectordb_config:
     personal_facts: "personal_facts"
   embedding_model: "text-embedding-3-small"
   k: 3
+
