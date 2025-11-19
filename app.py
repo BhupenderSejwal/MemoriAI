@@ -10,12 +10,13 @@ if SRC_DIR not in sys.path:
     sys.path.append(SRC_DIR)
     
 # Import shared logger
-from config.logging_config import logger
-
+from src.config.logging_config import logger
+logger.info("[APP] logging_config imported successfully.")
+logger.debug("[APP] Streamlit started with DEBUG logging enabled")
 # --- Robust import: accept both class name variants ---
 def load_bot_class():
     try:
-        from utils.chatbot_agentic_v3 import Chatbot_v3 as BotClass
+        from src.utils.chatbot_agentic_v3 import Chatbot_v3 as BotClass
         logger.info("[APP] Loaded Chatbot_v3 from utils.chatbot_agentic_v3")
         return BotClass
     except Exception:

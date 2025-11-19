@@ -57,3 +57,176 @@
 2025-11-16 23:48:06,000 - memori_ai - INFO - [APP] Streamlit UI started
 2025-11-16 23:48:06,002 - memori_ai - INFO - [APP] New user message received (length=21)
 2025-11-16 23:48:06,458 - memori_ai - INFO - [APP] Model reply generated in 0.45 seconds (len=53)
+2025-11-18 23:36:15,277 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-18 23:36:15,411 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-18 23:36:22,902 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-18 23:36:22,904 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-18 23:36:22,905 - memori_ai - INFO - [APP] New user message received (length=9)
+2025-11-18 23:36:22,908 - memori_ai - INFO - [APP] Chatbot instance created (cache_resource)
+2025-11-18 23:36:52,500 - memori_ai - INFO - [UTILS] jsonschema() called for function add_user_info_to_database
+2025-11-18 23:36:52,504 - memori_ai - INFO - [UTILS] jsonschema() called for function search_vector_db
+2025-11-18 23:36:52,578 - memori_ai - INFO - [APP] Model reply generated in 0.07 seconds (len=19)
+2025-11-18 23:37:36,943 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-18 23:37:37,036 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 00:05:39,206 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 00:05:39,208 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 00:05:48,558 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 00:05:48,560 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 00:05:48,562 - memori_ai - INFO - [APP] New user message received (length=9)
+2025-11-19 00:05:48,564 - memori_ai - INFO - [APP] Chatbot instance created (cache_resource)
+2025-11-19 00:05:55,515 - memori_ai - INFO - [UTILS] jsonschema() called for function add_user_info_to_database
+2025-11-19 00:05:55,519 - memori_ai - INFO - [UTILS] jsonschema() called for function search_vector_db
+2025-11-19 00:05:55,627 - memori_ai - INFO - [APP] Model reply generated in 0.11 seconds (len=19)
+2025-11-19 00:17:15,163 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 00:17:15,166 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 00:17:21,159 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 00:17:21,578 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 00:17:21,579 - memori_ai - INFO - [APP] New user message received (length=9)
+2025-11-19 00:17:21,615 - memori_ai - INFO - [APP] Model reply generated in 0.03 seconds (len=19)
+2025-11-19 03:20:57,630 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 03:20:57,773 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 03:21:12,285 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 03:21:12,288 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 03:21:12,291 - memori_ai - INFO - [APP] New user message received (length=9)
+2025-11-19 03:21:12,294 - memori_ai - INFO - [APP] Chatbot instance created (cache_resource)
+2025-11-19 03:21:25,905 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 03:21:25,907 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 03:21:26,094 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 03:21:26,097 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 03:21:36,875 - memori_ai - INFO - [UTILS] jsonschema() called for function add_user_info_to_database
+2025-11-19 03:21:36,880 - memori_ai - INFO - [UTILS] jsonschema() called for function search_vector_db
+2025-11-19 03:21:36,934 - memori_ai - INFO - [APP] Model reply generated in 0.05 seconds (len=19)
+2025-11-19 03:46:09,230 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 03:46:09,233 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 03:46:19,838 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 03:46:19,841 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 03:46:19,843 - memori_ai - INFO - [APP] New user message received (length=9)
+2025-11-19 03:46:19,871 - memori_ai - INFO - [APP] Model reply generated in 0.03 seconds (len=19)
+2025-11-19 03:59:28,960 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 03:59:28,965 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 03:59:38,598 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 03:59:38,601 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 03:59:38,603 - memori_ai - INFO - [APP] New user message received (length=10)
+2025-11-19 03:59:38,637 - memori_ai - INFO - [APP] Model reply generated in 0.03 seconds (len=19)
+2025-11-19 04:16:30,548 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 04:16:30,551 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 04:16:38,339 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 04:16:38,341 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 04:16:38,344 - memori_ai - INFO - [APP] New user message received (length=9)
+2025-11-19 04:16:38,385 - memori_ai - INFO - [APP] Model reply generated in 0.04 seconds (len=19)
+2025-11-19 04:33:47,798 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 04:33:47,801 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 04:33:53,203 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 04:33:54,231 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 04:33:54,234 - memori_ai - INFO - [APP] New user message received (length=9)
+2025-11-19 04:33:54,292 - memori_ai - INFO - [APP] Model reply generated in 0.05 seconds (len=41)
+2025-11-19 04:34:15,438 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 04:34:15,440 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 04:34:15,442 - memori_ai - INFO - [APP] New user message received (length=9)
+2025-11-19 04:34:15,496 - memori_ai - INFO - [APP] Model reply generated in 0.05 seconds (len=41)
+2025-11-19 04:34:22,170 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 04:34:22,172 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 04:34:22,175 - memori_ai - INFO - [APP] New user message received (length=9)
+2025-11-19 04:34:22,204 - memori_ai - INFO - [APP] Model reply generated in 0.03 seconds (len=19)
+2025-11-19 04:47:11,902 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 04:47:11,905 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 04:47:22,945 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 04:47:22,948 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 04:47:22,949 - memori_ai - INFO - [APP] New user message received (length=9)
+2025-11-19 04:47:22,986 - memori_ai - INFO - [APP] Model reply generated in 0.03 seconds (len=19)
+2025-11-19 06:07:11,832 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 06:07:11,849 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 06:07:20,967 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 06:07:20,970 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 06:07:20,972 - memori_ai - INFO - [APP] New user message received (length=9)
+2025-11-19 06:07:21,099 - memori_ai - INFO - [APP] Model reply generated in 0.12 seconds (len=19)
+2025-11-19 06:08:59,137 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 06:08:59,137 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 06:08:59,214 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 06:08:59,315 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 06:09:00,907 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 06:09:00,912 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 06:09:00,914 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 06:09:00,970 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 06:09:01,032 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 06:09:01,036 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 06:09:01,038 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 06:09:01,106 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 06:09:01,909 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 06:09:01,912 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 06:09:02,899 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 06:09:02,902 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 06:09:05,917 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 06:09:05,921 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 06:09:14,771 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 06:09:14,774 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 06:09:30,248 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 06:09:30,250 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 06:09:30,252 - memori_ai - INFO - [APP] New user message received (length=9)
+2025-11-19 06:09:30,254 - memori_ai - INFO - [APP] Chatbot instance created (cache_resource)
+2025-11-19 06:09:53,161 - memori_ai - INFO - [UTILS] jsonschema() called for function add_user_info_to_database
+2025-11-19 06:09:53,167 - memori_ai - INFO - [UTILS] jsonschema() called for function search_vector_db
+2025-11-19 06:09:53,216 - memori_ai - INFO - [APP] Model reply generated in 0.05 seconds (len=19)
+2025-11-19 07:15:36,754 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 07:15:36,756 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 07:15:46,716 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 07:15:46,719 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 07:15:46,721 - memori_ai - INFO - [APP] New user message received (length=9)
+2025-11-19 07:15:46,764 - memori_ai - INFO - [APP] Model reply generated in 0.04 seconds (len=19)
+2025-11-19 07:20:07,775 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 07:20:07,778 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 07:20:15,534 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 07:20:15,537 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 07:20:15,539 - memori_ai - INFO - [APP] New user message received (length=9)
+2025-11-19 07:20:15,575 - memori_ai - INFO - [APP] Model reply generated in 0.03 seconds (len=19)
+2025-11-19 07:21:13,684 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 07:21:13,687 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 07:21:21,183 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 07:21:21,188 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 07:21:21,190 - memori_ai - INFO - [APP] New user message received (length=9)
+2025-11-19 07:21:21,224 - memori_ai - INFO - [APP] Model reply generated in 0.03 seconds (len=19)
+2025-11-19 07:23:11,023 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 07:23:11,023 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 07:23:11,101 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 07:23:11,219 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 07:23:11,897 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 07:23:11,898 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 07:23:12,900 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 07:23:12,902 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 07:23:12,950 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 07:23:12,953 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 07:23:13,000 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 07:23:13,002 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 07:23:13,053 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 07:23:13,057 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 07:23:13,115 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 07:23:13,117 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 07:23:13,897 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 07:23:13,899 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 07:23:13,947 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 07:23:13,949 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 07:23:13,999 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 07:23:14,002 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 07:23:14,051 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 07:23:14,054 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 07:24:09,411 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 07:24:09,413 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 07:24:26,639 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 07:24:26,643 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 07:24:26,645 - memori_ai - INFO - [APP] New user message received (length=9)
+2025-11-19 07:24:26,648 - memori_ai - INFO - [APP] Chatbot instance created (cache_resource)
+2025-11-19 07:24:51,478 - memori_ai - INFO - [UTILS] jsonschema() called for function add_user_info_to_database
+2025-11-19 07:24:51,484 - memori_ai - INFO - [UTILS] jsonschema() called for function search_vector_db
+2025-11-19 07:24:51,578 - memori_ai - INFO - [APP] Model reply generated in 0.09 seconds (len=19)
+2025-11-19 07:28:05,458 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 07:28:05,460 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 07:28:09,005 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 07:28:09,009 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 07:28:18,482 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 07:28:18,485 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 07:28:18,487 - memori_ai - INFO - [APP] New user message received (length=9)
+2025-11-19 07:28:18,547 - memori_ai - INFO - [APP] Model reply generated in 0.06 seconds (len=41)
+2025-11-19 07:28:28,840 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 07:28:28,843 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 07:28:28,846 - memori_ai - INFO - [APP] New user message received (length=9)
+2025-11-19 07:28:28,886 - memori_ai - INFO - [APP] Model reply generated in 0.04 seconds (len=19)

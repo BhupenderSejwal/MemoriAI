@@ -1,0 +1,13 @@
+services:
+  memoriai:
+    image: tessaayv8/memoriai-assignment4:latest
+    # Eğer hocanın kendi makinesinde build etmesini istersen:
+    # build: .
+    container_name: memoriai-ass4
+    ports:
+      - "8501:8501"   # Streamlit portu
+    env_file:
+      - .env          # Yukarıda oluşturduğun gizli değerler
+    volumes:
+      - ./src/logs:/app/src/logs   # Logları host makineden görebilmek için
+    restart: unless-stopped
