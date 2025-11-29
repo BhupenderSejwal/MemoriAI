@@ -1,3 +1,4 @@
+import os
 from pathlib import Path
 from yaml import load, Loader
 
@@ -10,8 +11,8 @@ class Config:
         with open(CONFIG_PATH, "r", encoding="utf-8") as f:
             config = load(f, Loader=Loader)
 
+        # ========== YAML CONFIG (EXISTING) ==========
         # 🔹 Directories
-        # Convert to absolute paths to avoid “unable to open database” errors
         self.db_path = str((SRC_DIR / config["directories"]["db_path"]).resolve())
         self.vectordb_dir = str((SRC_DIR / config["directories"]["vectordb_dir"]).resolve())
 
@@ -33,3 +34,25 @@ class Config:
         self.collections = config["vectordb_config"]["collections"]
         self.embedding_model = config["vectordb_config"]["embedding_model"]
         self.k = config["vectordb_config"]["k"]
+
+        # ============================================
+        # 🔐 ENV SECRETS (NEW — REQUIRED FOR ASSIGNMENT 5)
+        # ============================================
+
+        # 📌 DB Secrets
+        self.db_username = os.getenv("DB_USERNAME", "default_user")
+        self.db_password = os.getenv("DB_PASSWORD", "default_pass")
+        self.db_host = os.getenv("DB_HOST", "localhost")
+        self.db_port = int(os.getenv("DB_PORT", "5432"))
+
+        # 📌 ML Experiment Secrets
+        feature_names_string = os.getenv("FEATURE_NAMES", "")
+        self.feature_names = [
+            f.strip() for f in feature_names_string.split(",") if f.strip()
+        ]
+
+        self.hyperparam_c = float(os.getenv("HYPERPARAM_C", 1.0))
+        self.expected_accuracy = float(os.getenv("EXPECTED_ACCURACY", 0.80))
+        self.num_epochs = int(os.getenv("NUM_EPOCHS", 10))
+        self.experiment_name = os.getenv("EXPERIMENT_NAME", "default_exp")
+        self.experiment_version = os.getenv("EXPERIMENT_VERSION", "v1")

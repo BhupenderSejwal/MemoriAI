@@ -1,13 +1,13 @@
 services:
   memoriai:
-    image: tessaayv8/memoriai-assignment4:latest
-    # Eğer hocanın kendi makinesinde build etmesini istersen:
+    image: tessaayv8/memoriai-assignment5:latest   # ✅ Docker Hub'daki yeni imaj
+    # Eğer hocanın kendi bilgisayarında build etmesini de istiyorsan:
     # build: .
-    container_name: memoriai-ass4
+    container_name: memoriai-assignment5
     ports:
-      - "8501:8501"   # Streamlit portu
+      - "8501:8501"          # Streamlit UI veya FastAPI portu
     env_file:
-      - .env          # Yukarıda oluşturduğun gizli değerler
+      - .env                 # .env içindeki DB + ML secrets
     volumes:
-      - ./src/logs:/app/src/logs   # Logları host makineden görebilmek için
+      - ./src/logs:/app/src/logs   # Log dosyalarını host'tan görebilmek için
     restart: unless-stopped

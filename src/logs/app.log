@@ -230,3 +230,93 @@
 2025-11-19 07:28:28,843 - memori_ai - INFO - [APP] Streamlit UI started
 2025-11-19 07:28:28,846 - memori_ai - INFO - [APP] New user message received (length=9)
 2025-11-19 07:28:28,886 - memori_ai - INFO - [APP] Model reply generated in 0.04 seconds (len=19)
+2025-11-19 08:23:56,790 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 08:23:56,807 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 09:25:40,081 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 09:25:40,087 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 09:27:29,540 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 09:27:29,543 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 09:27:29,978 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 09:27:33,172 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 09:28:16,554 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 09:28:16,556 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 13:34:30,692 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 13:34:30,696 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 14:10:34,105 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 14:10:34,108 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-19 14:15:56,252 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-19 14:15:56,255 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-28 22:41:32,082 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-11-28 22:41:32,083 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-11-28 22:41:32,083 - memori_ai - INFO - [APP] logging_config imported successfully.
+2025-11-28 22:41:32,083 - memori_ai - DEBUG - [APP] Streamlit started with DEBUG logging enabled
+2025-11-28 22:41:36,519 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-11-28 22:41:36,520 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-11-28 22:41:39,703 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-28 22:41:40,098 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-28 22:42:53,307 - memori_ai - INFO - [APP] logging_config imported successfully.
+2025-11-28 22:42:53,308 - memori_ai - DEBUG - [APP] Streamlit started with DEBUG logging enabled
+2025-11-28 22:42:53,309 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-28 22:42:53,310 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-28 22:42:53,312 - memori_ai - INFO - [APP] New user message received (length=9)
+2025-11-28 22:42:53,315 - memori_ai - INFO - [APP] Chatbot instance created (cache_resource)
+2025-11-28 22:44:33,975 - memori_ai - INFO - [UTILS] jsonschema() called for function add_user_info_to_database
+2025-11-28 22:44:33,990 - memori_ai - INFO - [UTILS] jsonschema() called for function search_vector_db
+2025-11-28 22:44:35,367 - memori_ai - INFO - [APP] Model reply generated in 1.35 seconds (len=19)
+2025-11-28 22:46:47,399 - memori_ai - INFO - [APP] logging_config imported successfully.
+2025-11-28 22:46:47,400 - memori_ai - DEBUG - [APP] Streamlit started with DEBUG logging enabled
+2025-11-28 22:46:47,400 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-28 22:46:47,401 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-28 22:46:47,404 - memori_ai - INFO - [APP] New user message received (length=16)
+2025-11-28 22:46:50,945 - memori_ai - INFO - [APP] Model reply generated in 3.54 seconds (len=21)
+2025-11-29 04:19:25,994 - memori_ai - DEBUG - DEBUG .env values: USER=tessa, HOST=db.example.com
+2025-11-29 04:19:25,995 - memori_ai - INFO - [CONFIG] Loaded DB config for user=tessa
+2025-11-29 04:19:25,996 - memori_ai - INFO - [APP] logging_config imported successfully.
+2025-11-29 04:19:25,997 - memori_ai - DEBUG - [APP] Streamlit started with DEBUG logging enabled
+2025-11-29 04:19:26,506 - memori_ai - DEBUG - DEBUG .env values: USER=tessa, HOST=db.example.com
+2025-11-29 04:19:26,507 - memori_ai - INFO - [CONFIG] Loaded DB config for user=tessa
+2025-11-29 04:19:26,925 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-29 04:19:27,075 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-29 04:21:59,009 - memori_ai - INFO - [APP] logging_config imported successfully.
+2025-11-29 04:21:59,012 - memori_ai - DEBUG - [APP] Streamlit started with DEBUG logging enabled
+2025-11-29 04:21:59,013 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-29 04:21:59,015 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-29 04:22:13,414 - memori_ai - INFO - [APP] logging_config imported successfully.
+2025-11-29 04:22:13,416 - memori_ai - DEBUG - [APP] Streamlit started with DEBUG logging enabled
+2025-11-29 04:22:13,417 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-29 04:22:13,419 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-29 04:22:13,420 - memori_ai - INFO - [APP] New user message received (length=9)
+2025-11-29 04:22:13,423 - memori_ai - INFO - [APP] Chatbot instance created (cache_resource)
+2025-11-29 04:22:34,237 - memori_ai - INFO - [UTILS] jsonschema() called for function add_user_info_to_database
+2025-11-29 04:22:34,242 - memori_ai - INFO - [UTILS] jsonschema() called for function search_vector_db
+2025-11-29 04:22:34,296 - memori_ai - INFO - [APP] Model reply generated in 0.05 seconds (len=19)
+2025-11-29 04:23:21,005 - memori_ai - INFO - [APP] logging_config imported successfully.
+2025-11-29 04:23:21,007 - memori_ai - DEBUG - [APP] Streamlit started with DEBUG logging enabled
+2025-11-29 04:23:21,008 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-29 04:23:21,010 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-29 04:23:21,014 - memori_ai - INFO - [APP] New user message received (length=16)
+2025-11-29 04:23:21,050 - memori_ai - INFO - [APP] Model reply generated in 0.03 seconds (len=21)
+2025-11-29 04:23:41,961 - memori_ai - INFO - [APP] logging_config imported successfully.
+2025-11-29 04:23:41,962 - memori_ai - DEBUG - [APP] Streamlit started with DEBUG logging enabled
+2025-11-29 04:23:41,963 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-29 04:23:41,966 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-29 04:23:41,969 - memori_ai - INFO - [APP] New user message received (length=22)
+2025-11-29 04:23:42,004 - memori_ai - INFO - [APP] Model reply generated in 0.03 seconds (len=20)
+2025-11-29 04:24:13,579 - memori_ai - INFO - [APP] logging_config imported successfully.
+2025-11-29 04:24:13,581 - memori_ai - DEBUG - [APP] Streamlit started with DEBUG logging enabled
+2025-11-29 04:24:13,583 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-29 04:24:13,584 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-29 04:24:13,588 - memori_ai - INFO - [APP] New user message received (length=22)
+2025-11-29 04:24:13,659 - memori_ai - INFO - [APP] Model reply generated in 0.07 seconds (len=54)
+2025-11-29 04:24:46,894 - memori_ai - DEBUG - DEBUG .env values: USER=tessa, HOST=db.example.com
+2025-11-29 04:24:46,895 - memori_ai - INFO - [CONFIG] Loaded DB config for user=tessa
+2025-11-29 04:24:46,897 - memori_ai - INFO - [APP] logging_config imported successfully.
+2025-11-29 04:24:46,897 - memori_ai - DEBUG - [APP] Streamlit started with DEBUG logging enabled
+2025-11-29 04:24:47,279 - memori_ai - DEBUG - DEBUG .env values: USER=tessa, HOST=db.example.com
+2025-11-29 04:24:47,280 - memori_ai - INFO - [CONFIG] Loaded DB config for user=tessa
+2025-11-29 04:24:47,605 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-29 04:24:47,745 - memori_ai - INFO - [APP] Streamlit UI started
+2025-11-29 04:24:50,879 - memori_ai - INFO - [APP] logging_config imported successfully.
+2025-11-29 04:24:50,881 - memori_ai - DEBUG - [APP] Streamlit started with DEBUG logging enabled
+2025-11-29 04:24:50,882 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
+2025-11-29 04:24:50,883 - memori_ai - INFO - [APP] Streamlit UI started

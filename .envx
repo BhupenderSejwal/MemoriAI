@@ -1,0 +1,51 @@
+USE_MOCK_LLM=false
+DISABLE_VECTOR_DB=true
+OPENAI_API_KEY=lmstudio
+OPENAI_BASE_URL=http://localhost:1234/v1
+USE_MOCK_LLM=false
+DISABLE_VECTOR_DB=false
+# LLM tarafını şimdilik kapatalım ya da gerçek OpenAI kullanmıyorsan boş kalsın
+#OPENAI_API_KEY=
+#OPENAI_BASE_URL=
+#USE_MOCK_LLM=true          # LLM yanıtını mock et – akış ve hafıza testleri için ideal
+
+# Chroma embedding'i yerelle değiştir
+EMBEDDINGS_PROVIDER=local
+SENTENCE_TRANSFORMER_MODEL=all-MiniLM-L6-v2
+
+# Telemetri gürültüsünü kapat
+DISABLE_TELEMETRY=true
+
+# Vektör DB açık kalsın
+DISABLE_VECTOR_DB=false
+
+OPENAI_DISABLED=false
+#OPENAI_API_KEY=lmstudio      # (veya ollama)
+#OPENAI_BASE_URL=http://localhost:1234/v1   # LM Studio
+#Ollama için: http://localhost:11434/v1
+OPENAI_DISABLED=false
+OPENAI_API_KEY=ollama
+OPENAI_BASE_URL=http://127.0.0.1:11434/v1
+
+EMBEDDINGS_PROVIDER=local
+SENTENCE_TRANSFORMER_MODEL=all-MiniLM-L6-v2
+
+USE_MOCK_LLM=false
+DISABLE_VECTOR_DB=false
+DISABLE_TELEMETRY=true
+TRANSFORMERS_NO_TF=1
+TF_CPP_MIN_LOG_LEVEL=2
+# 11/18/25
+# DB secrets
+DB_USERNAME=tessa
+DB_PASSWORD=tessa11
+DB_HOST=db.example.com
+DB_PORT=5432
+
+# ML experiment secrets / hyperparams
+FEATURE_NAMES="age,income,visits"
+HYPERPARAM_C=1.0
+EXPECTED_ACCURACY=0.85
+NUM_EPOCHS=10
+EXPERIMENT_NAME="memoriai_exp_01"
+EXPERIMENT_VERSION="v1.0"
