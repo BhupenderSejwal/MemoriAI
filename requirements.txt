@@ -22,3 +22,5 @@ uvicorn[standard]
 torch
 sentence-transformers
 transformers
+mlflow
+scikit-learn

@@ -1,0 +1,177 @@
+Folder PATH listing for volume One Touch
+Volume serial number is 0086-AD0E
+D:.
+¦   README.md
+¦   requirements.txt
+¦   Dockerfile
+¦   azure-pipelines.yml
+¦   app.py
+¦   docker-compose.yml
+¦   .env
+¦   .envx
+¦   api_main.py
+¦   start.sh
+¦   structure.t
+¦   structure.txt
+¦   
++---api
+¦   ¦   .gitkeep
+¦   ¦   __init__.py
+¦   ¦   mlops_router.py
+¦   ¦   
+¦   +---__pycache__
+¦           __init__.cpython-311.pyc
+¦           mlops_router.cpython-311.pyc
+¦           
++---data
+¦       .gitkeep
+¦       
++---docs
+¦   ¦   .gitkeep
+¦   ¦   
+¦   +---infra
+¦   +---sprints
+¦   +---tests
+¦   ¦   +---integration
+¦   ¦   +---unit
+¦   ¦           MVP_UseCase1.docx
+¦   ¦           
+¦   +---appendix
+¦   ¦       Assignment 3 – API Service Designs & Architecture (MemoriAI) .docx
+¦   ¦       
+¦   +---architecture
+¦   ¦       CaregiverDashboardDailySummary.png
+¦   ¦       CognitivedentityWord-Aid.png
+¦   ¦       DailyReminderFlow.png
+¦   ¦       Deployment.png
+¦   ¦       ML odakli Container Diyagrami.png
+¦   ¦       MVP_Architecture.png
+¦   ¦       MemoriAI_Architecture_Overview_v3.docx
+¦   ¦       MemoriAI_HLD_v2_Advanced_actors_fixed.docx
+¦   ¦       System Context.png
+¦   ¦       Untitled diagram-2025-10-15-235644.png
+¦   ¦       
+¦   +---assignments
+¦           Ass2_Group3_MemoriAI_ML_INFO8665_V1.pdf
+¦           Assignment 3 – API Service Designs & Architecture (MemoriAI) .docx
+¦           Assignment3_Project_WorkPlan_MemoriAI_v3.docx
+¦           MVP.docx
+¦           MemoriAI_mL_Assignment#1.pdf
+¦           
++---src
+¦   ¦   .gitkeep
+¦   ¦   chat_in_terminal.py
+¦   ¦   chat_in_ui.py
+¦   ¦   check_sqldb.py
+¦   ¦   check_vectordb.py
+¦   ¦   main.py
+¦   ¦   prepare_sqldb.py
+¦   ¦   prepare_vectordb.py
+¦   ¦   schemas.py
+¦   ¦   test_openai_key.py
+¦   ¦   test_vectordb.py
+¦   ¦   test_vectordb_search.py
+¦   ¦   
+¦   +---__pycache__
+¦   ¦       main.cpython-311.pyc
+¦   ¦       schemas.cpython-311.pyc
+¦   ¦       
+¦   +---config
+¦   ¦   ¦   config.yml
+¦   ¦   ¦   logging_config.py
+¦   ¦   ¦   
+¦   ¦   +---__pycache__
+¦   ¦           logging_config.cpython-311.pyc
+¦   ¦           
+¦   +---data
+¦   ¦   ¦   chatbot.db
+¦   ¦   ¦   personal_memory.md
+¦   ¦   ¦   
+¦   ¦   +---vectordb
+¦   ¦       ¦   chroma.sqlite3
+¦   ¦       ¦   
+¦   ¦       +---e51fe593-71f3-4fc3-b937-ffaae9f5ba25
+¦   ¦       ¦       data_level0.bin
+¦   ¦       ¦       header.bin
+¦   ¦       ¦       length.bin
+¦   ¦       ¦       link_lists.bin
+¦   ¦       ¦       
+¦   ¦       +---a0a5a6a3-8fd7-4c7c-9f7b-d225471509aa
+¦   +---routers
+¦   ¦   ¦   dashboard_router.py
+¦   ¦   ¦   profile_router.py
+¦   ¦   ¦   reminder_router.py
+¦   ¦   ¦   
+¦   ¦   +---__pycache__
+¦   ¦           profile_router.cpython-311.pyc
+¦   ¦           reminder_router.cpython-311.pyc
+¦   ¦           dashboard_router.cpython-311.pyc
+¦   ¦           
+¦   +---services
+¦   ¦   ¦   profile_service.py
+¦   ¦   ¦   reminder_service.py
+¦   ¦   ¦   
+¦   ¦   +---__pycache__
+¦   ¦           reminder_service.cpython-311.pyc
+¦   ¦           
+¦   +---utils
+¦   ¦   ¦   basic_chatbot_v1.py
+¦   ¦   ¦   chat_history_manager.py
+¦   ¦   ¦   chatbot_agentic_v2.py
+¦   ¦   ¦   chatbot_agentic_v3.py
+¦   ¦   ¦   config.py
+¦   ¦   ¦   prepare_system_prompt.py
+¦   ¦   ¦   search_manager.py
+¦   ¦   ¦   sql_manager.py
+¦   ¦   ¦   user_manager.py
+¦   ¦   ¦   utils.py
+¦   ¦   ¦   vector_db_manager.py
+¦   ¦   ¦   
+¦   ¦   +---__pycache__
+¦   ¦           config.cpython-313.pyc
+¦   ¦           basic_chatbot_v1.cpython-311.pyc
+¦   ¦           sql_manager.cpython-311.pyc
+¦   ¦           user_manager.cpython-311.pyc
+¦   ¦           chat_history_manager.cpython-311.pyc
+¦   ¦           prepare_system_prompt.cpython-311.pyc
+¦   ¦           chatbot_agentic_v2.cpython-311.pyc
+¦   ¦           search_manager.cpython-311.pyc
+¦   ¦           chatbot_agentic_v3.cpython-311.pyc
+¦   ¦           vector_db_manager.cpython-311.pyc
+¦   ¦           utils.cpython-311.pyc
+¦   ¦           config.cpython-311.pyc
+¦   ¦           
+¦   +---logs
+¦           app.log
+¦           
++---tests
+¦       .gitkeep
+¦       
++---cognitive_service
+¦   ¦   main.py
+¦   ¦   
+¦   +---__pycache__
+¦   ¦       main.cpython-313.pyc
+¦   ¦       
+¦   +---mlops
+¦       ¦   train_mlflow.py
+¦       ¦   inference.py
+¦       ¦   __init__.py
+¦       ¦   
+¦       +---__pycache__
+¦               __init__.cpython-311.pyc
+¦               train_mlflow.cpython-311.pyc
+¦               inference.cpython-311.pyc
+¦               
++---dashboard_service
+¦       main.py
+¦       
++---reminder_service
+¦       main.py
+¦       
++---.streamlit
+¦       config.toml
+¦       
++---__pycache__
+        api_main.cpython-311.pyc
+        
