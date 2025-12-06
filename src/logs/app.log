@@ -320,3 +320,218 @@
 2025-11-29 04:24:50,881 - memori_ai - DEBUG - [APP] Streamlit started with DEBUG logging enabled
 2025-11-29 04:24:50,882 - memori_ai - INFO - [APP] Loaded Chatbot from utils.chatbot_agentic_v3
 2025-11-29 04:24:50,883 - memori_ai - INFO - [APP] Streamlit UI started
+2025-12-05 10:10:51,664 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 10:10:51,666 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 10:47:05,339 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 10:47:05,348 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 10:47:59,775 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 10:47:59,776 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 10:48:10,918 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 10:48:10,918 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 10:48:14,547 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 10:48:14,547 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 10:48:15,106 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 10:48:15,106 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 11:08:00,406 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 11:08:00,407 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 11:11:01,244 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 11:11:01,245 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 11:11:03,264 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 11:11:03,264 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 11:11:03,457 - memori_ai - INFO - [API] Routers loaded successfully
+2025-12-05 11:11:10,317 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 11:11:10,317 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 11:12:01,741 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 11:12:01,741 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 11:12:03,745 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 11:12:03,745 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 11:12:03,770 - memori_ai - INFO - [API] FastAPI MemoriAI app starting...
+2025-12-05 11:12:03,774 - memori_ai - INFO - [API] Routers loaded successfully
+2025-12-05 11:12:11,811 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 11:12:11,812 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 11:12:39,682 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 11:12:39,683 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 11:13:10,025 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 11:13:10,025 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 11:13:12,117 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 11:13:12,117 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 11:13:12,144 - memori_ai - INFO - [API] FastAPI MemoriAI app starting...
+2025-12-05 11:13:12,147 - memori_ai - INFO - [API] Routers loaded successfully
+2025-12-05 15:44:16,655 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 15:44:16,669 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 15:44:38,971 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 15:44:38,971 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 15:44:39,203 - memori_ai - INFO - [API] FastAPI MemoriAI app starting...
+2025-12-05 15:44:39,206 - memori_ai - INFO - [API] Routers loaded successfully
+2025-12-05 16:33:40,190 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 16:33:40,191 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 16:33:47,004 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 16:33:47,005 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 16:33:47,033 - memori_ai - INFO - [API] FastAPI MemoriAI app starting...
+2025-12-05 16:33:47,036 - memori_ai - INFO - [API] Routers loaded successfully
+2025-12-05 16:45:32,310 - memori_ai - INFO - [MLOPS] MemoriAI training pipeline started
+2025-12-05 16:45:32,310 - memori_ai - ERROR - [MLOPS] Training data not found at data\memoriai_train.csv
+2025-12-05 16:47:08,146 - memori_ai - ERROR - [MLOPS] Model file not found at models\memoriai_latest.pkl
+2025-12-05 16:48:43,236 - memori_ai - INFO - [PROFILE] GET /profile/ called
+2025-12-05 16:49:19,016 - memori_ai - INFO - [PROFILE] GET /profile/ called
+2025-12-05 16:49:28,919 - memori_ai - INFO - [PROFILE] POST /profile/set called with keys=['additionalProp1']
+2025-12-05 16:49:28,919 - memori_ai - WARNING - [PROFILE] Profile update failed: Please provide a valid key from: name, last_name, age, gender, location, occupation, interests
+2025-12-05 16:49:28,919 - memori_ai - ERROR - [PROFILE] Error updating profile: Please provide a valid key from: name, last_name, age, gender, location, occupation, interests
+2025-12-05 16:49:48,057 - memori_ai - INFO - [REMINDER] Service created for user_id=1
+2025-12-05 16:49:48,058 - memori_ai - INFO - ReminderService initialized for user_id=1
+2025-12-05 16:49:48,059 - memori_ai - INFO - [REMINDER] POST /reminder/set called (title=string)
+2025-12-05 16:49:48,059 - memori_ai - INFO - Creating reminder: user_id=1, title='string', due_at=string
+2025-12-05 16:49:48,184 - memori_ai - INFO - Reminder created successfully: id=3, user_id=1
+2025-12-05 16:49:48,184 - memori_ai - INFO - Listing reminders: user_id=1, status=None, limit=1, offset=0
+2025-12-05 16:49:48,185 - memori_ai - INFO - Listed reminders: user_id=1, status=None, returned=1, total=3
+2025-12-05 16:49:48,185 - memori_ai - INFO - [REMINDER] Reminder created with id=3
+2025-12-05 16:49:50,695 - memori_ai - INFO - [REMINDER] Service created for user_id=1
+2025-12-05 16:49:50,696 - memori_ai - INFO - ReminderService initialized for user_id=1
+2025-12-05 16:49:50,697 - memori_ai - INFO - [REMINDER] POST /reminder/set called (title=string)
+2025-12-05 16:49:50,697 - memori_ai - INFO - Creating reminder: user_id=1, title='string', due_at=string
+2025-12-05 16:49:50,788 - memori_ai - INFO - Reminder created successfully: id=4, user_id=1
+2025-12-05 16:49:50,789 - memori_ai - INFO - Listing reminders: user_id=1, status=None, limit=1, offset=0
+2025-12-05 16:49:50,789 - memori_ai - INFO - Listed reminders: user_id=1, status=None, returned=1, total=4
+2025-12-05 16:49:50,789 - memori_ai - INFO - [REMINDER] Reminder created with id=4
+2025-12-05 16:50:04,444 - memori_ai - INFO - [REMINDER] Service created for user_id=1
+2025-12-05 16:50:04,445 - memori_ai - INFO - ReminderService initialized for user_id=1
+2025-12-05 16:50:04,449 - memori_ai - INFO - [REMINDER] GET /reminder/list called (status=None, limit=50, offset=0)
+2025-12-05 16:50:04,449 - memori_ai - INFO - Listing reminders: user_id=1, status=None, limit=50, offset=0
+2025-12-05 16:50:04,449 - memori_ai - INFO - Listed reminders: user_id=1, status=None, returned=4, total=4
+2025-12-05 16:50:31,188 - memori_ai - INFO - [MLOPS] MemoriAI training pipeline started
+2025-12-05 16:50:31,188 - memori_ai - ERROR - [MLOPS] Training data not found at data\memoriai_train.csv
+2025-12-05 17:01:28,853 - memori_ai - INFO - [DASHBOARD] GET /dashboard/summary called for user_id=1
+2025-12-05 17:01:28,854 - memori_ai - INFO - ReminderService initialized for user_id=1
+2025-12-05 17:01:28,854 - memori_ai - INFO - Calculating reminder statistics by status for user_id=1
+2025-12-05 17:01:28,855 - memori_ai - INFO - Reminder statistics computed for user_id=1: {'pending': 4, 'done': 0, 'canceled': 0, 'total': 4}
+2025-12-05 17:01:28,855 - memori_ai - INFO - [DASHBOARD] Summary built (reminders_total=4, chat_count=0)
+2025-12-05 17:01:48,226 - memori_ai - INFO - [MLOPS] MemoriAI training pipeline started
+2025-12-05 17:01:48,226 - memori_ai - ERROR - [MLOPS] Training data not found at data\memoriai_train.csv
+2025-12-05 17:05:02,990 - memori_ai - INFO - [MLOPS] MemoriAI training pipeline started
+2025-12-05 17:05:02,991 - memori_ai - ERROR - [MLOPS] Training data not found at data\memoriai_train.csv
+2025-12-05 17:05:13,183 - memori_ai - INFO - [MLOPS] MemoriAI training pipeline started
+2025-12-05 17:05:13,183 - memori_ai - ERROR - [MLOPS] Training data not found at data\memoriai_train.csv
+2025-12-05 17:05:28,706 - memori_ai - ERROR - [MLOPS] Model file not found at models\memoriai_latest.pkl
+2025-12-05 17:05:36,023 - memori_ai - ERROR - [MLOPS] Model file not found at models\memoriai_latest.pkl
+2025-12-05 17:13:02,908 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 17:13:02,909 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 17:13:03,591 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 17:13:03,591 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 17:15:38,189 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 17:15:38,189 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 17:15:40,117 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 17:15:40,117 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 17:15:40,143 - memori_ai - INFO - [API] FastAPI MemoriAI app starting...
+2025-12-05 17:15:40,145 - memori_ai - INFO - [API] Routers loaded successfully
+2025-12-05 17:15:57,481 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 17:15:57,481 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 17:15:59,539 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 17:15:59,540 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 17:15:59,583 - memori_ai - INFO - [API] FastAPI MemoriAI app starting...
+2025-12-05 17:15:59,587 - memori_ai - INFO - [API] Routers loaded successfully
+2025-12-05 17:16:09,065 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 17:16:09,065 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 17:16:10,967 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 17:16:10,967 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 17:16:10,990 - memori_ai - INFO - [API] FastAPI MemoriAI app starting...
+2025-12-05 17:16:10,994 - memori_ai - INFO - [API] Routers loaded successfully
+2025-12-05 17:16:37,596 - memori_ai - INFO - [MLOPS] MemoriAI training pipeline started
+2025-12-05 17:16:37,596 - memori_ai - INFO - [MLOPS] Using data file: D:\Doc_2025\Sebtember2025\INFO8665ML1\MemoriAI\src\data\memoriai_train.csv
+2025-12-05 17:16:37,596 - memori_ai - INFO - [MLOPS] Model dir: D:\Doc_2025\Sebtember2025\INFO8665ML1\MemoriAI\models
+2025-12-05 17:16:57,346 - memori_ai - INFO - [MLOPS] MLflow run started: a020538e3b7c4ae9ba0001fb6ab89fbb
+2025-12-05 17:16:58,065 - memori_ai - INFO - [MLOPS] Training completed: accuracy=0.3750, f1_score=0.3631
+2025-12-05 17:17:13,913 - memori_ai - INFO - [MLOPS] Local model saved to D:\Doc_2025\Sebtember2025\INFO8665ML1\MemoriAI\models\memoriai_latest.pkl
+2025-12-05 17:17:14,124 - memori_ai - INFO - [MLOPS] MemoriAI training pipeline finished
+2025-12-05 17:20:49,679 - memori_ai - INFO - [MLOPS] Loading model from D:\Doc_2025\Sebtember2025\INFO8665ML1\MemoriAI\models\memoriai_latest.pkl
+2025-12-05 17:20:53,139 - memori_ai - INFO - [MLOPS] Predict called for 1 texts
+2025-12-05 18:14:32,415 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:14:32,416 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:14:34,231 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:14:34,232 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:14:34,253 - memori_ai - INFO - [API] FastAPI MemoriAI app starting...
+2025-12-05 18:14:34,256 - memori_ai - INFO - [API] Routers loaded successfully
+2025-12-05 18:14:41,385 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:14:41,385 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:14:43,312 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:14:43,312 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:15:03,634 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:15:03,635 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:15:05,695 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:15:05,695 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:15:05,730 - memori_ai - INFO - [API] FastAPI MemoriAI app starting...
+2025-12-05 18:15:05,734 - memori_ai - INFO - [API] Routers loaded successfully
+2025-12-05 18:18:01,130 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:18:01,131 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:18:03,010 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:18:03,011 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:18:03,031 - memori_ai - INFO - [API] FastAPI MemoriAI app starting...
+2025-12-05 18:18:03,034 - memori_ai - INFO - [API] Routers loaded successfully
+2025-12-05 18:18:03,867 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:18:03,868 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:18:05,602 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:18:05,602 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:18:05,624 - memori_ai - INFO - [API] FastAPI MemoriAI app starting...
+2025-12-05 18:18:05,628 - memori_ai - INFO - [API] Routers loaded successfully
+2025-12-05 18:18:06,358 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:18:06,358 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:18:08,123 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:18:08,123 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:18:08,146 - memori_ai - INFO - [API] FastAPI MemoriAI app starting...
+2025-12-05 18:18:08,150 - memori_ai - INFO - [API] Routers loaded successfully
+2025-12-05 18:18:19,378 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:18:19,378 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:18:21,198 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:18:21,199 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:18:21,220 - memori_ai - INFO - [API] FastAPI MemoriAI app starting...
+2025-12-05 18:18:21,224 - memori_ai - INFO - [API] Routers loaded successfully
+2025-12-05 18:18:21,960 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:18:21,960 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:18:23,699 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:18:23,699 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:18:23,723 - memori_ai - INFO - [API] FastAPI MemoriAI app starting...
+2025-12-05 18:18:23,726 - memori_ai - INFO - [API] Routers loaded successfully
+2025-12-05 18:18:27,184 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:18:27,184 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:18:28,962 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:18:28,963 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:18:28,983 - memori_ai - INFO - [API] FastAPI MemoriAI app starting...
+2025-12-05 18:18:28,986 - memori_ai - INFO - [API] Routers loaded successfully
+2025-12-05 18:18:30,015 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:18:30,015 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:18:31,837 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:18:31,837 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:18:31,865 - memori_ai - INFO - [API] FastAPI MemoriAI app starting...
+2025-12-05 18:18:31,868 - memori_ai - INFO - [API] Routers loaded successfully
+2025-12-05 18:18:32,654 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:18:32,655 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:18:34,445 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:18:34,446 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:18:34,466 - memori_ai - INFO - [API] FastAPI MemoriAI app starting...
+2025-12-05 18:18:34,469 - memori_ai - INFO - [API] Routers loaded successfully
+2025-12-05 18:18:35,279 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:18:35,279 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:18:37,020 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:18:37,021 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:18:37,043 - memori_ai - INFO - [API] FastAPI MemoriAI app starting...
+2025-12-05 18:18:37,046 - memori_ai - INFO - [API] Routers loaded successfully
+2025-12-05 18:18:37,841 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:18:37,841 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:18:39,645 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:18:39,646 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:18:39,669 - memori_ai - INFO - [API] FastAPI MemoriAI app starting...
+2025-12-05 18:18:39,672 - memori_ai - INFO - [API] Routers loaded successfully
+2025-12-05 18:18:40,405 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:18:40,406 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:18:42,101 - memori_ai - DEBUG - DEBUG .env values: USER=None, HOST=None
+2025-12-05 18:18:42,101 - memori_ai - INFO - [CONFIG] Loaded DB config for user=None
+2025-12-05 18:18:42,122 - memori_ai - INFO - [API] FastAPI MemoriAI app starting...
+2025-12-05 18:18:42,125 - memori_ai - INFO - [API] Routers loaded successfully
+2025-12-05 18:19:18,378 - memori_ai - INFO - [MLOPS] MemoriAI training pipeline started
+2025-12-05 18:19:18,379 - memori_ai - INFO - [MLOPS] Using data file: D:\Doc_2025\Sebtember2025\INFO8665ML1\MemoriAI\src\data\memoriai_train.csv
+2025-12-05 18:19:18,379 - memori_ai - INFO - [MLOPS] Model dir: D:\Doc_2025\Sebtember2025\INFO8665ML1\MemoriAI\models
+2025-12-05 18:19:20,147 - memori_ai - INFO - [MLOPS] MLflow run started: 074d4f1174f5433baf2d5db3dee9bc6a
+2025-12-05 18:19:20,434 - memori_ai - INFO - [MLOPS] Training completed: accuracy=0.3750, f1_score=0.3631
+2025-12-05 18:19:26,654 - memori_ai - INFO - [MLOPS] Local model saved to D:\Doc_2025\Sebtember2025\INFO8665ML1\MemoriAI\models\memoriai_latest.pkl
+2025-12-05 18:19:26,865 - memori_ai - INFO - [MLOPS] MemoriAI training pipeline finished
+2025-12-05 18:19:58,275 - memori_ai - INFO - [MLOPS] Loading model from D:\Doc_2025\Sebtember2025\INFO8665ML1\MemoriAI\models\memoriai_latest.pkl
+2025-12-05 18:19:58,288 - memori_ai - INFO - [MLOPS] Predict called for 1 texts
